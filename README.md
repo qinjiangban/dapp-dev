@@ -17,3 +17,18 @@
 ```bash
 git clone git@github.com:qinjiangban/dapp-dev.git
 ```
+
+查看依赖更新对比
+```bash
+npm outdated
+```
+
+更新模块
+```bash
+npm update $
+```
+
+安装全部依赖
+```bash
+npm i 
+```
